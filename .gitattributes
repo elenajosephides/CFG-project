@@ -1,2 +1,24 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html>
+      <head>
+      <title> title </title>
+      </head>
+      <body>
+      <h1>Elena Josephides</h1>
+      <br /> <!-- break tag -->
+      <h4>Code First Girls</h4>
+      <p>Web Development Class</p>
+      <font color = "red">Elena </font>
+      <font color = "green"> Josephides </font>
+          <ul>
+              <li>Elena</li>
+              <li>Is</li>
+              <li>The</li>
+              <li>Best</li>
+          </ul>
+      <!-- hello my name is Elena -->
+      <input type = "submit" value = "search" disabled>
+      <a href = "https://www.google.com/webhp?hl=en&ictx=2&sa=X&ved=0ahUKEwiP3umN0rjnAhXQWhUIHeLOCRIQPQgH" > Go To Google </a>
+      <img src = "ET.jpg" alt = "Image 1">
+      </body>
+      </html>
